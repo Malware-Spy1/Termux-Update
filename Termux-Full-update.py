@@ -3,7 +3,7 @@ import time
 ########C O D E X#######»
 os.system("clear")
 time.sleep(2)
-print("\033[31mHackers Army \033[32mP A G E\033[33m I N \033[31mFacebook")
+print("\033[31mM A L W A R E S P Y\033[32mP A G E\033[33m I N \033[31mFacebook")
  
 print("")
 time.sleep(1)
