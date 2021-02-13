@@ -42,5 +42,10 @@ os.system("apt install toilet -y")
 os.system("apt install openssh -y")
 os.system("apt install openssl -y")
 os.system("termux-setup-storage")
-############
-print(" \033[33mUpdating Is Finshed ✓ ")
+os.system("pip install mechanize")
+os.system("pip2 install mechanize")
+os.system("pip install -- update")
+os.system("pip2 install -- update")
+
+##########
+print(" \033[33mUpdating Is Finshed >> Thanks To Use Malware-Spy Script ✓ ")
